@@ -3,10 +3,8 @@
 Computer vision is a method for understanding how photos and movies are stored, as well as manipulating and retrieving data from them. OpenCV is a large open-source library for computer vision, machine learning, and image processing, and it currently plays a significant part in real-time operations, which are critical in systems. Images and videos may be analysed to identify items, people, and even human handwriting. Python can process its array structure for analysis when it is combined with other libraries, such as NumPy. We employ vector space and execute mathematical operations on these characteristics to identify visual patterns and their different features.
 
 A 400x400 image was used.
-It was converted to Grayscale.
-
 ![dog2](https://user-images.githubusercontent.com/75320682/140651042-f46667bc-de78-41b5-b909-e1dc0abe9927.jpg)
-
+It was converted to Grayscale.
 
 ![image](https://user-images.githubusercontent.com/75320682/140651479-f9cd312b-be4b-4699-b6c4-e774440c31f3.png)
 
